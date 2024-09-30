@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "marm_code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "arm_zero_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arm_zero_control-Debug-23f77ee67f899bbb34fa.json",
+					"name" : "arm_zero_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_arm_joint_angle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_arm_joint_angle-Debug-3bb21921a1a84458a2e6.json",
+					"name" : "get_arm_joint_angle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_1_1-Debug-de80a7e54169ada77ae6.json",
+					"name" : "grasp_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_1_2-Debug-35f9a5062633e028f416.json",
+					"name" : "grasp_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_2_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_2_1-Debug-b6d59282115a9fa5f442.json",
+					"name" : "grasp_2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_2_2-Debug-2e5e1aaed3155892c54e.json",
+					"name" : "grasp_2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_3_1-Debug-0e3199fc079e59bceda6.json",
+					"name" : "grasp_3_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_3_2-Debug-d6b3e944a672aabf9399.json",
+					"name" : "grasp_3_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_4_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_4_1-Debug-81c8cc5a1e7a85793e07.json",
+					"name" : "grasp_4_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "grasp_4_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-grasp_4_2-Debug-f276bf403070e859199e.json",
+					"name" : "grasp_4_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_angle_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_angle_control-Debug-99f9846c4cfb4e7a8614.json",
+					"name" : "joint_angle_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_enable_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_enable_control-Debug-8898c748f9337f8a2b5a.json",
+					"name" : "joint_enable_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "left_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-left_1-Debug-b738131e9fa613724e15.json",
+					"name" : "left_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "left_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-left_2-Debug-2f2018bd7058fb67d9d4.json",
+					"name" : "left_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multiple_joint_angle_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multiple_joint_angle_control-Debug-c9813bbde70526f70085.json",
+					"name" : "multiple_joint_angle_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "right_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-right_1-Debug-bb0e76be40906a1f37d9.json",
+					"name" : "right_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "right_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-right_2-Debug-160ad2748300c6d58b08.json",
+					"name" : "right_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/unitree/d1_sdk/build",
+		"source" : "/home/unitree/d1_sdk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

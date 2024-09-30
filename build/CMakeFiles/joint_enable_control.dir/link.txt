@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/joint_enable_control.dir/src/joint_enable_control.cpp.o CMakeFiles/joint_enable_control.dir/src/msg/ArmString_.cpp.o -o joint_enable_control  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libright_2.so -o libright_2.so CMakeFiles/right_2.dir/src/right_2.cpp.o CMakeFiles/right_2.dir/src/msg/ArmString_.cpp.o  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

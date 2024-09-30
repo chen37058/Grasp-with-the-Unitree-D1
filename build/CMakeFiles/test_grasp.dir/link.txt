@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_grasp.dir/src/test_grasp.cpp.o CMakeFiles/test_grasp.dir/src/msg/ArmString_.cpp.o -o test_grasp  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

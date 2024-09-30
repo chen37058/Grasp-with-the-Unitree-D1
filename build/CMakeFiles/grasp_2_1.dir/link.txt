@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libgrasp_2_1.so -o libgrasp_2_1.so CMakeFiles/grasp_2_1.dir/src/grasp_2_1.cpp.o CMakeFiles/grasp_2_1.dir/src/msg/ArmString_.cpp.o  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

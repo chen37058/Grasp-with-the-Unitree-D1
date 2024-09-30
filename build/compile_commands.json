@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dleft_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/left_1.dir/src/left_1.cpp.o -c /home/unitree/d1_sdk/src/left_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/left_1.cpp",
+  "output": "CMakeFiles/left_1.dir/src/left_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dleft_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/left_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/left_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dleft_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/left_2.dir/src/left_2.cpp.o -c /home/unitree/d1_sdk/src/left_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/left_2.cpp",
+  "output": "CMakeFiles/left_2.dir/src/left_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dleft_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/left_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/left_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dright_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/right_1.dir/src/right_1.cpp.o -c /home/unitree/d1_sdk/src/right_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/right_1.cpp",
+  "output": "CMakeFiles/right_1.dir/src/right_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dright_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/right_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/right_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dright_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/right_2.dir/src/right_2.cpp.o -c /home/unitree/d1_sdk/src/right_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/right_2.cpp",
+  "output": "CMakeFiles/right_2.dir/src/right_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dright_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/right_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/right_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_1_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_1_1.dir/src/grasp_1_1.cpp.o -c /home/unitree/d1_sdk/src/grasp_1_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_1_1.cpp",
+  "output": "CMakeFiles/grasp_1_1.dir/src/grasp_1_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_1_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_1_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_1_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_1_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_1_2.dir/src/grasp_1_2.cpp.o -c /home/unitree/d1_sdk/src/grasp_1_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_1_2.cpp",
+  "output": "CMakeFiles/grasp_1_2.dir/src/grasp_1_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_1_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_1_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_1_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_2_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_2_1.dir/src/grasp_2_1.cpp.o -c /home/unitree/d1_sdk/src/grasp_2_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_2_1.cpp",
+  "output": "CMakeFiles/grasp_2_1.dir/src/grasp_2_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_2_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_2_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_2_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_2_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_2_2.dir/src/grasp_2_2.cpp.o -c /home/unitree/d1_sdk/src/grasp_2_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_2_2.cpp",
+  "output": "CMakeFiles/grasp_2_2.dir/src/grasp_2_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_2_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_2_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_2_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_3_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_3_1.dir/src/grasp_3_1.cpp.o -c /home/unitree/d1_sdk/src/grasp_3_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_3_1.cpp",
+  "output": "CMakeFiles/grasp_3_1.dir/src/grasp_3_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_3_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_3_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_3_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_3_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_3_2.dir/src/grasp_3_2.cpp.o -c /home/unitree/d1_sdk/src/grasp_3_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_3_2.cpp",
+  "output": "CMakeFiles/grasp_3_2.dir/src/grasp_3_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_3_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_3_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_3_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_4_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_4_1.dir/src/grasp_4_1.cpp.o -c /home/unitree/d1_sdk/src/grasp_4_1.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_4_1.cpp",
+  "output": "CMakeFiles/grasp_4_1.dir/src/grasp_4_1.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_4_1_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_4_1.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_4_1.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_4_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_4_2.dir/src/grasp_4_2.cpp.o -c /home/unitree/d1_sdk/src/grasp_4_2.cpp",
+  "file": "/home/unitree/d1_sdk/src/grasp_4_2.cpp",
+  "output": "CMakeFiles/grasp_4_2.dir/src/grasp_4_2.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++ -Dgrasp_4_2_EXPORTS -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -fPIC -o CMakeFiles/grasp_4_2.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/grasp_4_2.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/joint_angle_control.dir/src/joint_angle_control.cpp.o -c /home/unitree/d1_sdk/src/joint_angle_control.cpp",
+  "file": "/home/unitree/d1_sdk/src/joint_angle_control.cpp",
+  "output": "CMakeFiles/joint_angle_control.dir/src/joint_angle_control.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/joint_angle_control.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/joint_angle_control.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/multiple_joint_angle_control.dir/src/multiple_joint_angle_control.cpp.o -c /home/unitree/d1_sdk/src/multiple_joint_angle_control.cpp",
+  "file": "/home/unitree/d1_sdk/src/multiple_joint_angle_control.cpp",
+  "output": "CMakeFiles/multiple_joint_angle_control.dir/src/multiple_joint_angle_control.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/multiple_joint_angle_control.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/multiple_joint_angle_control.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/joint_enable_control.dir/src/joint_enable_control.cpp.o -c /home/unitree/d1_sdk/src/joint_enable_control.cpp",
+  "file": "/home/unitree/d1_sdk/src/joint_enable_control.cpp",
+  "output": "CMakeFiles/joint_enable_control.dir/src/joint_enable_control.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/joint_enable_control.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/joint_enable_control.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/arm_zero_control.dir/src/arm_zero_control.cpp.o -c /home/unitree/d1_sdk/src/arm_zero_control.cpp",
+  "file": "/home/unitree/d1_sdk/src/arm_zero_control.cpp",
+  "output": "CMakeFiles/arm_zero_control.dir/src/arm_zero_control.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/arm_zero_control.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/arm_zero_control.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/get_arm_joint_angle.dir/src/get_arm_joint_angle.cpp.o -c /home/unitree/d1_sdk/src/get_arm_joint_angle.cpp",
+  "file": "/home/unitree/d1_sdk/src/get_arm_joint_angle.cpp",
+  "output": "CMakeFiles/get_arm_joint_angle.dir/src/get_arm_joint_angle.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/get_arm_joint_angle.dir/src/msg/ArmString_.cpp.o -c /home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/ArmString_.cpp",
+  "output": "CMakeFiles/get_arm_joint_angle.dir/src/msg/ArmString_.cpp.o"
+},
+{
+  "directory": "/home/unitree/d1_sdk/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/ddscxx -I/usr/local/include/iceoryx/v2.0.2 -g -std=gnu++17 -o CMakeFiles/get_arm_joint_angle.dir/src/msg/PubServoInfo_.cpp.o -c /home/unitree/d1_sdk/src/msg/PubServoInfo_.cpp",
+  "file": "/home/unitree/d1_sdk/src/msg/PubServoInfo_.cpp",
+  "output": "CMakeFiles/get_arm_joint_angle.dir/src/msg/PubServoInfo_.cpp.o"
+}
+]

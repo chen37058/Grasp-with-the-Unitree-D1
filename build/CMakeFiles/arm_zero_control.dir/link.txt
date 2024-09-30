@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/arm_zero_control.dir/src/arm_zero_control.cpp.o CMakeFiles/arm_zero_control.dir/src/msg/ArmString_.cpp.o -o arm_zero_control  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/joint_angle_control.dir/src/joint_angle_control.cpp.o CMakeFiles/joint_angle_control.dir/src/msg/ArmString_.cpp.o -o joint_angle_control  -lunitree_sdk2 -lddsc -lddscxx -lrt -lpthread 
