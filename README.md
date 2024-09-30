@@ -3,16 +3,16 @@
 Demonstrations of Using the Unitree D1 Robotic Arm to Open Cabinet Doors and Grasp Objects
 
 Grasping Scissors (5x Speed)
-[!demo-1](docs/demo-1.gif)
+![demo-1](docs/demo-1.gif)
 
 Grasping Phillips Screwdriver (Tool selected based on real-time audio recognition)
-[!demo-2](docs/demo-2.gif)
+![demo-2](docs/demo-2.gif)
 
 Grasping Flathead Screwdriver
-[!demo-3](docs/demo-3.gif)
+![demo-3](docs/demo-3.gif)
 
 Opening Drawer
-[!demo-4](docs/demo-4.gif)
+![demo-4](docs/demo-4.gif)
 
 Usage Example: `src/test_grasp.py`
 
