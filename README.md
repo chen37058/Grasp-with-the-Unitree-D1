@@ -2,7 +2,7 @@
 
 Demonstrations of Using the Unitree D1 Robotic Arm to Open Cabinet Doors and Grasp Objects
 
-![Video](https://www.bilibili.com/video/BV1kYCUYoE1Q)
+[Click here to watch the video](https://www.bilibili.com/video/BV1kYCUYoE1Q)
 
 Grasping Scissors (5x Speed)  
 ![demo-1](docs/demo-1.gif)
